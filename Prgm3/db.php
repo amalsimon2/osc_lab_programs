@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "root";
+$password = "12345678";
 $database = "feedback_db";
 $port = 3306;
 
